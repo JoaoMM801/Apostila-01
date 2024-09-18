@@ -3,7 +3,7 @@ Algoritmo "inicio"
 Var
 msg:caractere
 Inicio
-msg<- "Me Livrei da maldição"
-escreval ("Olá, Mundo!  ",msg)
+msg<- "Me Livrei da maldiÃ§Ã£o"
+escreval ("OlÃ¡, Mundo!  ",msg)
 
-Fimalgoritmo
+Finalgoritmo
